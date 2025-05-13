@@ -1,0 +1,5 @@
+product_description,declared_code,retrieved_code,fraud_status,is_fraud,timestamp
+câbles (y compris les câbles coaxiaux) et autres conducteurs isolés pour l’électricité (même laqués ou oxydés anodiquement),1207991100,86,Fraudulent,1,2025-05-13 02:43:45
+Hypochlorites,UNKNOWN,2827100000,Fraudulent,1,2025-05-13 02:43:47
+mais non enregistrés,UNKNOWN,1504,">>> fraud_status('mais non enregistrés', '1504', 'UNKNOWN')",1,2025-05-13 02:43:48
+le polissage ou usages ana- logues,7002,6307101000,Fraudulent,1,2025-05-13 02:43:49
